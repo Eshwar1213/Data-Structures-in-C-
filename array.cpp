@@ -8,8 +8,8 @@ int main(){
 
     int arr[5] = {1, 2, 3, 4, 5}; // Declare and initialize an array of size 5
     printf("Elements of the array are:\n");
-    for(int i = 0; i < 5; i++) { // Loop through the array
-        printf("%d ", arr[i]); // Print each element
+    for(int i = 0; i < 5; i++) {
+        printf("%d ", arr[i]); 
     }
 
     printf("\n First element of the array is %d\n", arr[0]); // Print the first element
